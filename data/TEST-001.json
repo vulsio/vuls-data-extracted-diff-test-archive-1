@@ -1,0 +1,17 @@
+{
+	"id": "TEST-001",
+	"vulnerabilities": [
+		{
+			"content": {
+				"id": "CVE-2024-XXXX",
+				"description": "For diff test"
+			}
+		}
+	],
+	"data_source": {
+		"id": "test",
+		"raws": [
+			"vuls-data-raw-diff-test/TEST-001.json"
+		]
+	}
+}
